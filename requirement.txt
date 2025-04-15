@@ -1,0 +1,18 @@
+buy just using html and CSS
+PERSONAL PORTFOLIO
+3pages: home project COntact
+home page:
+images that loads randomly
+name
+a tagline
+a short intro 
+tools that you have used
+And a button that leads to project page
+
+Project:
+a cool grid or flex box to show your project with github link and website url
+
+Contact:
+A circle photo and a my contact info 
+
+footer and navigation bar 
