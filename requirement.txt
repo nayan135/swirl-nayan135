@@ -16,3 +16,20 @@ Contact:
 A circle photo and a my contact info 
 
 footer and navigation bar 
+
+
+Custom 404 error page
+CSS hover animations
+Footer with links
+Timeline layout on About Me page
+Flexbox layouts
+Grid layouts
+Custom color scheme with CSS variables
+Box shadows and transitions
+Favicon
+Navigation with active state highlighting
+Circular profile image styling
+Animation effects (floating 404)
+Multi-page website structure
+Consistent typography hierarchy
+External links with target attributes
