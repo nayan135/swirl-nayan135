@@ -1,4 +1,4 @@
-buy just using html and CSS
+ just using html and CSS
 PERSONAL PORTFOLIO
 3pages: home project COntact
 home page:
@@ -21,7 +21,6 @@ footer and navigation bar
 Custom 404 error page
 CSS hover animations
 Footer with links
-Timeline layout on About Me page
 Flexbox layouts
 Grid layouts
 Custom color scheme with CSS variables
