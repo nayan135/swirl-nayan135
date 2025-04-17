@@ -6,9 +6,8 @@
     --text-color: #333;
     --main-white: #fff;
     --highlight: #E74C3C;
-    /* --alt-blue: #3a5fcc; - might use this later */
-    --my-fonts: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    /* --alt-blue: #3a5fcc; - might use this later */
+    /* --alt-blue: #3a5fcc; - might use */
+    --my-fonts: 'Poppins', sans-serif;
 }
 
 * {
@@ -20,21 +19,17 @@
 body {
     font-family: var(--my-fonts);
     color: var(--text-color);
-    /* Fixed variable reference */
     line-height: 1.64;
     background: linear-gradient(135deg, var(--main-blue), var(--dark-blue));
-    /* Added gradient background */
     background-attachment: fixed;
 }
 
 a {
     text-decoration: none;
-    color: var(--dark-blue);
-    /* Using dark-blue for links */
 }
 
 
-/* Header stuff */
+/* Header part hai ta*/
 
 header {
     background-color: var(--offwhite);
