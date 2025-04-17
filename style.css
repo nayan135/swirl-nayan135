@@ -1,10 +1,13 @@
 :root {
-    --main-blue: #4169e1;
+    --main-blue: #89cff0;
+    --dark-blue: #1586e1;
     --offwhite: #f8f9fa;
-    --dark-text: #333;
-    --highlight: rgb(241, 97, 97);
-    --my-fonts: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    /* --alt-blue: #3a5fcc; - might use this later */
+    --light-yellow: #FFFACD;
+    --text-color: #333;
+    --main-white: #fff;
+    --highlight: #E74C3C;
+    /* --alt-blue: #3a5fcc; - might use */
+    --my-fonts: 'Poppins', sans-serif;
 }
 
 * {
@@ -15,22 +18,21 @@
 
 body {
     font-family: var(--my-fonts);
-    color: var(--dark-text);
+    color: var(--text-color);
     line-height: 1.64;
-    background-color: white;
-    /* overflow-x: hidden; - removed this as we need overflowwwww  */
+    background: linear-gradient(135deg, var(--main-blue), var(--dark-blue));
+    background-attachment: fixed;
 }
 
 a {
     text-decoration: none;
-    color: var(--main-blue);
 }
 
 
-/* Header stuff */
+/* Header part hai ta*/
 
 header {
-    background-color: white;
+    background-color: var(--offwhite);
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     position: sticky;
     top: 0;
